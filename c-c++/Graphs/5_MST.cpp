@@ -8,7 +8,7 @@
 using namespace std;
 
 vector<pair<pair<int,int>,int>> calculatePrimsMST(int n,int m,vector<pair<pair<int,int>,int>> &g){
-    //create adj list
+    //create adj list 000
     unordered_map<int,list<pair<int,int>>> adj;
     for(int i=0;i<g.size();i++){
         int u = g[i].first.first;
