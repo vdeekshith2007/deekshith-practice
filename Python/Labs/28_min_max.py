@@ -3,7 +3,7 @@ import numpy as np
 arr = np.array([5,10,15,20,25])
 print(arr)
 
-# Minimum element
+# Minimum element 
 print("Mininum Element : ",np.min(arr))
 
 # Maximum element
