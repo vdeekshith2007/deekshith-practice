@@ -3,13 +3,13 @@
 using namespace std;
 
 bool isSafe(vector<vector<int>>&board,int row,int col,int dig){
-    //Horizontal
+    //Horizontal changes
     for(int j=0;j<9;j++){
         if(board[row][j]==dig){
             return false;
         }
     }
-    //Vertical
+    //Vertical changes 
     for(int i=0;i<9;i++){
         if(board[i][col]==dig){
             return false;
