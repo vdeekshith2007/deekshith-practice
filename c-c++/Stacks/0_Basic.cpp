@@ -2,7 +2,7 @@
 using namespace std;
 
 class Stack{
-        //data members
+        //data members commplete add in to stack using pop(),psuh(),peek().
         int *arr;
         int capacity;
         int top;
