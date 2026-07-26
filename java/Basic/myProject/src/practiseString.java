@@ -1,4 +1,4 @@
-
+// strings in java
 import java.lang.*;
 import java.util.Scanner;
 

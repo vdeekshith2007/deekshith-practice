@@ -1,4 +1,4 @@
-
+//practice  projectset
 import java.util.Scanner;
 
 public class practiseSet1 {

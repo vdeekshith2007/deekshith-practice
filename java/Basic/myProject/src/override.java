@@ -1,4 +1,4 @@
-
+// method overriding
 class Animal {
 
     void eat() {

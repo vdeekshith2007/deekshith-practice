@@ -1,3 +1,6 @@
+
+// conditional.java exmaples
+
 import java.util.Scanner;
 
 public class Conditional {

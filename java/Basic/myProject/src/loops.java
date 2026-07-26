@@ -1,4 +1,4 @@
-
+// loops examples in java
 import java.util.Scanner;
 
 public class loops {

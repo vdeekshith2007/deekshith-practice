@@ -1,4 +1,4 @@
-
+// creating static instance varibles
 class Parent {
 
     static void hello() {

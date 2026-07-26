@@ -1,4 +1,4 @@
-
+// java complete arraay concepts 
 import java.util.Scanner;
 
 public class practiseArray {

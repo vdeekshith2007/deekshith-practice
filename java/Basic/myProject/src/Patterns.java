@@ -1,4 +1,4 @@
-
+//patterns in java 
 import java.util.Scanner;
 
 public class Patterns {

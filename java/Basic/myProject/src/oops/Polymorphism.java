@@ -1,4 +1,4 @@
-
+//polymorphism example
 abstract class Shape{
     void area(){};
 }
