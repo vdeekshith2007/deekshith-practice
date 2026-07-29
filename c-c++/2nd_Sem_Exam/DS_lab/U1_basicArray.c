@@ -36,7 +36,7 @@ int main(){
 
 
 
-/*
+/* defining the array elements
 #include <stdio.h>
 int main() {
 int n;
