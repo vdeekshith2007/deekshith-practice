@@ -1,4 +1,4 @@
-
+// java threads program
 import java.lang.*;
 
 // class GoodMorningThread extends Thread {
