@@ -18,7 +18,7 @@ public class Exceptational {
         try {
             int arr[] = {10,20,30};
             int a =10, b=0;
-            int result = a/b;
+            int c= a/b;
             System.out.println("Array Element no.5 : " + arr[5]);
         } catch (ArithmeticException e) {
             System.out.println("Exception caught : Division by zero not allowed.");
