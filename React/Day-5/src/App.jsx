@@ -1,4 +1,6 @@
 // App.jsx
+
+// app.jsx
 import { useState } from 'react';
 import './App.css';
 import ProfileHeader from './components/ProfileHeader';
