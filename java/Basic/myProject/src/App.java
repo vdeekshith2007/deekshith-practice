@@ -1,5 +1,6 @@
 
 // public apppetes
+// using java appelees as the frame work of the server
 
 public class App {
     public static void main(String[] args) throws Exception {
