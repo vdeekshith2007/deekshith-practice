@@ -1,3 +1,9 @@
+
+
+
+# counter.report.txt
+
+
 with open("report.txt","w") as f:
     f.write("Python is a versatile programming language.\n")
     f.write("It is a widely used for web development, data science and more.\n")
