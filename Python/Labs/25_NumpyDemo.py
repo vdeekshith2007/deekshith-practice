@@ -1,3 +1,5 @@
+# arrays are imported through numpy library
+
 import numpy as np
 
 # 1D Array

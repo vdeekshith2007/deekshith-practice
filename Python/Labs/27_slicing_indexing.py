@@ -1,3 +1,5 @@
+
+# create a numpy
 import numpy as np
 
 # Create a Numpy Array

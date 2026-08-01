@@ -1,6 +1,7 @@
 import json as js
 
 # Example of json
+# json as frame work in python
 json_str = '{"name":"Ravi","age":21,"subjects":["math","Physics"],"address":{"city":"Hyderabad"}}'
 
 # Parse JSON String

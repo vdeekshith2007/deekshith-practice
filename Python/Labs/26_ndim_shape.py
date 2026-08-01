@@ -1,3 +1,7 @@
+
+
+# ndim and shape of array
+
 import numpy as np
 
 # 1D Array

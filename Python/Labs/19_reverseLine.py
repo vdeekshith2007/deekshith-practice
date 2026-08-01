@@ -1,3 +1,6 @@
+
+# reverse file content
+
 with open("data.txt","w") as f:
     f.write("Line 1: First line of the file.\n")
     f.write("Line 2: This is the second line.\n")

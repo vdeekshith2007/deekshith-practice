@@ -1,3 +1,6 @@
+
+
+# fundtion of matrix operations
 m1 = [[1,2], [3,4]]
 m2 = [[5,6] , [7,8]]
 result = [[0,0] , [0,0]]
