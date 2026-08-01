@@ -6,6 +6,7 @@ import pandas as pd
 # data = [100.2,102,104]
 # series = pd.Series(data)
 # print(series)
+# printing add ()
 
 
 # data = [True,False,True]

@@ -5,6 +5,7 @@ df = pd.read_csv("04_data.csv")
 # 1. Drop irrelevant coulmns
 # ldf = df.drop(columns=["Legendary","No"])
 # print(ldf)
+# print()
 
 
 # 2. Handle missing data
