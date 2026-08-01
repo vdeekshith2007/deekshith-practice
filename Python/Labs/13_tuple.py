@@ -1,3 +1,6 @@
+
+# tuple concat
+
 s1 = ("Aarav sharme",20,"123 Mapple st, Delhi","ABC College of Engineering")
 s2 = ("Diya Patel",19,"456 Oake Ave, Mumbai","XYZ Institute of Technology")
 
