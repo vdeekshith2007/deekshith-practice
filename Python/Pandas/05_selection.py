@@ -4,6 +4,7 @@ import pandas as pd
 df = pd.read_csv("04_data.csv",index_col="Name")
 
 # Selection by column
+# selection 
 
 # print(df["Name"].to_string())
 # print(df["Height"].to_string())

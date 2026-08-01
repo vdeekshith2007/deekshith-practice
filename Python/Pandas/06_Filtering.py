@@ -1,3 +1,5 @@
+# filtering in pandas
+
 import pandas as pd
 
 df = pd.read_csv("04_data.csv")

@@ -3,6 +3,8 @@ import pandas as pd
 
 # a tabular data frame
 
+# ndim represnts the no.of dimensions in the data frame
+
 
 data = {"Name":["Rajesh","Pradip","Bikash"],
         "Age":[30,35,50]}

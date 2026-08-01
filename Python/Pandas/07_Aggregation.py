@@ -10,6 +10,8 @@ df = pd.read_csv("04_data.csv")
 # print(df.max(numeric_only=True))
 # print(df.count())
 
+# aggregation 
+
 
 # Single column
 # print(df["Height"].mean())
