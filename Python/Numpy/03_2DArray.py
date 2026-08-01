@@ -1,3 +1,5 @@
+# 2D array slicing and indexing
+
 import numpy as np
 
 

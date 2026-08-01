@@ -1,3 +1,6 @@
+
+# airthmetic operations in numpy
+
 import numpy as np
 
 

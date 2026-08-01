@@ -1,3 +1,6 @@
+
+# ndim 
+
 import numpy as np
 
 arr1 = np.array([0,2,3,4])

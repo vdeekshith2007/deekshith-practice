@@ -1,3 +1,6 @@
+
+# filtering 
+
 import numpy as np
 
 arr1 = np.array([[21,17,19,20,16,30,18,65],
