@@ -1,6 +1,7 @@
 import pandas as pd
 
 # A pandas 1D labeled array that can hold any data type
+# data visualiation and analytics
 
 
 # data = [100.2,102,104]
