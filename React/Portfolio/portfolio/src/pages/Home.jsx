@@ -3,6 +3,7 @@ import ScrollCanvas from "../components/ScrollCanvas";
 import ScrollSection from "../components/ScrollSection";
 
 // Frame ranges per section
+// importing facts 
 const SECTIONS = {
   intro:        { start: 0,   end: 0.2  },
   skills:       { start: 0.2, end: 0.4  },

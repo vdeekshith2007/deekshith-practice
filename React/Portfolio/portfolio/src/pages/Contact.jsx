@@ -1,4 +1,6 @@
 // contact of jsx as the extended frame work of java script.
+
+// jsx react .jsx
 import React from "react";
 import "contact.css";
 function contact(){
