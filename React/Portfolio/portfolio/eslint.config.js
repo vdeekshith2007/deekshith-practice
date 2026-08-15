@@ -1,5 +1,5 @@
 
-/// react eslint.config.js
+/// react eslint.config.js  java clinet side user
 
 import js from '@eslint/js'
 import globals from 'globals'
