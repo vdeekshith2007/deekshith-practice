@@ -1,7 +1,7 @@
 import { motion, useTransform, useMotionValue, animate } from "framer-motion";
 import { useEffect, useRef } from "react";
 
-// startP / endP = 0–1 scroll range where this section is active
+// startP / endP = 0–1 scroll range where this section is active transform the scroll.bar 
 export default function ScrollSection({ progress, startP, endP, children }) {
   // Section-local progress 0→1
   const local = Math.min(Math.max((progress - startP) / (endP - startP), 0), 1);
