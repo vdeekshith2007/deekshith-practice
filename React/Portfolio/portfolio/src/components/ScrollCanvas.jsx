@@ -5,7 +5,7 @@ const TOTAL_FRAMES = 176;
 // Map scroll 0–1 to frame 1–176
 
 
-// map scroll 0-1 frame 1-176
+// map scroll 0-1 frame 1-176   scroll bar is fixed .
 function getFrameNumber(progress) {
   const frame = Math.round(progress * (TOTAL_FRAMES - 1)) + 1;
   return Math.min(Math.max(frame, 1), TOTAL_FRAMES);
