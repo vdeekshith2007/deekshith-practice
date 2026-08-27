@@ -19,7 +19,7 @@ export default function Home() {
   const progress = useScrollProgress();
 
   return (
-    // Tall scroll container — 600vh gives smooth scroll room
+    // Tall scroll container — 600vh gives smooth scroll room  jsx functionality 
     <div style={{ height: "600vh" }}>
       {/* Fixed visual layer */}
       <ScrollCanvas progress={progress} />
