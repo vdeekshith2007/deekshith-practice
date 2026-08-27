@@ -1,6 +1,6 @@
 // contact of jsx as the extended frame work of java script.
 
-// jsx react .jsx  updated
+// jsx react .jsx  updated  are extensions are used
 
 
 // contact info uisng jsx 
