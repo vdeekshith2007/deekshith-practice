@@ -3,7 +3,7 @@
 // jsx react .jsx  updated  are extensions are used
 
 
-// contact info uisng jsx 
+// contact info uisng jsx  extension .
 import React from "react";
 import "contact.css";
 function contact(){
