@@ -6,7 +6,8 @@ import ScrollSection from "../components/ScrollSection";
 // importing facts 
 
 
-// home.jsx
+// home.jsx 
+// updates 
 const SECTIONS = {
   intro:        { start: 0,   end: 0.2  },
   skills:       { start: 0.2, end: 0.4  },
