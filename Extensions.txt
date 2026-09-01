@@ -17,7 +17,7 @@
 16. //Code Spell Checker
 17. //GraphQl 
 18. //tabnine Ai AutoComplete
-19. Tailwind CSS intellisense
+19. Tailwind CSS intellisense(style)
 20. //favorites
 21. //thunder clients
 22. ES7 React\Redux
