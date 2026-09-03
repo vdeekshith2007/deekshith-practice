@@ -1,4 +1,4 @@
-// Get the elements
+// Get the elements - react.js 
 const scoreCard = document.getElementById("scorecard");
 const overCard = document.getElementById("overcard");
 const runCard = document.getElementById("runcard");
