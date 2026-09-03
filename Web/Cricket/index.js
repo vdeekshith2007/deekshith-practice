@@ -9,7 +9,7 @@ let wickets = 3;
 let overs = 15.2;
 let currentRun = 4;
 
-// Display data
+// Display the data in the cards 
 scoreCard.innerHTML = `
     <h2>🏏 Score</h2>
     <p>${score}/${wickets}</p>
