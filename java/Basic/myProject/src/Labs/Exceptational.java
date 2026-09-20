@@ -8,10 +8,12 @@ public class Exceptational {
     //         System.out.println("Result : " + result);
     //     } catch (ArithmeticException e) {
     //         System.out.println("Exception caught : Division by zero is not allowed....");
-    //     } finally {  
+    //     } finally {   
     //         System.out.println("Execution Completed....");
     //     }
     // }
+
+    // finally keyword is spilted 
 
 
     public static void main(String[] args){
