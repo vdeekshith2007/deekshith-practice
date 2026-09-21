@@ -60,7 +60,7 @@ public class Operator {
         System.out.println("a <= b : " + (a <= b));
 
         // ==========================
-        // 5. Logical Operators
+        // 5. Logical Operators  
         // ==========================
         System.out.println("\n=== Logical Operators ===");
         boolean p = true;
