@@ -104,7 +104,7 @@ public class Operator {
         // ==========================
         System.out.println("\n=== instanceof Operator ===");
         String str = "Java";
-        System.out.println(str instanceof String);
+        System.out.println(str instanceof String);      
 
         // ==========================
         // 10. Type Casting
