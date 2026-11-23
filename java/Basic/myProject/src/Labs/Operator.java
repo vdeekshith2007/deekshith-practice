@@ -100,7 +100,7 @@ public class Operator {
         System.out.println("Maximum = " + max);
 
         // ==========================
-        // 9. instanceof Operator
+        // 9. instanceof Operator    
         // ==========================
         System.out.println("\n=== instanceof Operator ===");
         String str = "Java";
